@@ -43,10 +43,6 @@
   box-sizing: border-box;
 }
 
-#custom-parentdiv .custom-childdiv {
-  position: absolute;
-  bottom: 0;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
