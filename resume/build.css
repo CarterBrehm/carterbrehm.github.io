@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.latin.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.latin.woff2) format("woff2");
   unicode-range: U+0000-007f, U+0080-00ff;
 }
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.latin-ext.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.latin-ext.woff2) format("woff2");
   unicode-range: U+0100-017f, U+0180-024f, U+0250-02af, U+1e??, U+2c60-2c7f,
     U+a720-a7ff, U+ab30-ab6f;
 }
@@ -20,7 +20,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.cyrillic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.cyrillic.woff2) format("woff2");
   unicode-range: U+04??, U+0500-052f;
 }
 @font-face {
@@ -28,7 +28,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.special.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.special.woff2) format("woff2");
   unicode-range: U+02b0-02ff, U+0300-036f, U+1d00-1d7f, U+1d80-1dbf, U+1dc0-1dff,
     U+23??, U+2980-29ff, U+2b??, U+e000-f8ff, U+fb00-fb4f;
 }
@@ -37,7 +37,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.greek.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.greek.woff2) format("woff2");
   unicode-range: U+0370-03ff, U+1f??;
 }
 @font-face {
@@ -45,7 +45,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.hebrew.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.hebrew.woff2) format("woff2");
   unicode-range: U+0590-05ff;
 }
 @font-face {
@@ -53,7 +53,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.arabic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.arabic.woff2) format("woff2");
   unicode-range: U+06??, U+0750-077f, U+fb50-fdff, U+fe70-feff;
 }
 @font-face {
@@ -61,7 +61,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.devanagari.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.devanagari.woff2) format("woff2");
   unicode-range: U+0900-097f;
 }
 @font-face {
@@ -69,7 +69,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.thai.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.thai.woff2) format("woff2");
   unicode-range: U+0e00-0e7f;
 }
 @font-face {
@@ -77,7 +77,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.georgian.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.georgian.woff2) format("woff2");
   unicode-range: U+10a0-10ff;
 }
 @font-face {
@@ -85,7 +85,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/FiraGO-SemiBold.shared.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-SemiBold.shared.woff2) format("woff2");
   unicode-range: U+2000-206f, U+2070-209f, U+20a0-20cf, U+2100-214f, U+2150-218f,
     U+2190-21ff, U+22??, U+25a0-25ff, U+2700-27bf;
 }
@@ -94,7 +94,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.latin.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.latin.woff2) format("woff2");
   unicode-range: U+0000-007f, U+0080-00ff;
 }
 @font-face {
@@ -102,7 +102,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.latin-ext.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.latin-ext.woff2) format("woff2");
   unicode-range: U+0100-017f, U+0180-024f, U+0250-02af, U+1e??, U+2c60-2c7f,
     U+a720-a7ff, U+ab30-ab6f;
 }
@@ -111,7 +111,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.cyrillic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.cyrillic.woff2) format("woff2");
   unicode-range: U+04??, U+0500-052f;
 }
 @font-face {
@@ -119,7 +119,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.special.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.special.woff2) format("woff2");
   unicode-range: U+02b0-02ff, U+0300-036f, U+1d00-1d7f, U+1d80-1dbf, U+1dc0-1dff,
     U+23??, U+2980-29ff, U+2b??, U+e000-f8ff, U+fb00-fb4f;
 }
@@ -128,7 +128,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.greek.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.greek.woff2) format("woff2");
   unicode-range: U+0370-03ff, U+1f??;
 }
 @font-face {
@@ -136,7 +136,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.hebrew.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.hebrew.woff2) format("woff2");
   unicode-range: U+0590-05ff;
 }
 @font-face {
@@ -144,7 +144,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.arabic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.arabic.woff2) format("woff2");
   unicode-range: U+06??, U+0750-077f, U+fb50-fdff, U+fe70-feff;
 }
 @font-face {
@@ -152,7 +152,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.devanagari.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.devanagari.woff2) format("woff2");
   unicode-range: U+0900-097f;
 }
 @font-face {
@@ -160,7 +160,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.thai.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.thai.woff2) format("woff2");
   unicode-range: U+0e00-0e7f;
 }
 @font-face {
@@ -168,7 +168,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.georgian.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.georgian.woff2) format("woff2");
   unicode-range: U+10a0-10ff;
 }
 @font-face {
@@ -176,7 +176,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/fonts/FiraGO-Bold.shared.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Bold.shared.woff2) format("woff2");
   unicode-range: U+2000-206f, U+2070-209f, U+20a0-20cf, U+2100-214f, U+2150-218f,
     U+2190-21ff, U+22??, U+25a0-25ff, U+2700-27bf;
 }
@@ -185,7 +185,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.latin.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.latin.woff2) format("woff2");
   unicode-range: U+0000-007f, U+0080-00ff;
 }
 @font-face {
@@ -193,7 +193,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.latin-ext.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.latin-ext.woff2) format("woff2");
   unicode-range: U+0100-017f, U+0180-024f, U+0250-02af, U+1e??, U+2c60-2c7f,
     U+a720-a7ff, U+ab30-ab6f;
 }
@@ -202,7 +202,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.cyrillic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.cyrillic.woff2) format("woff2");
   unicode-range: U+04??, U+0500-052f;
 }
 @font-face {
@@ -210,7 +210,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.special.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.special.woff2) format("woff2");
   unicode-range: U+02b0-02ff, U+0300-036f, U+1d00-1d7f, U+1d80-1dbf, U+1dc0-1dff,
     U+23??, U+2980-29ff, U+2b??, U+e000-f8ff, U+fb00-fb4f;
 }
@@ -219,7 +219,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.greek.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.greek.woff2) format("woff2");
   unicode-range: U+0370-03ff, U+1f??;
 }
 @font-face {
@@ -227,7 +227,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.hebrew.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.hebrew.woff2) format("woff2");
   unicode-range: U+0590-05ff;
 }
 @font-face {
@@ -235,7 +235,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.arabic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.arabic.woff2) format("woff2");
   unicode-range: U+06??, U+0750-077f, U+fb50-fdff, U+fe70-feff;
 }
 @font-face {
@@ -243,7 +243,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.devanagari.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.devanagari.woff2) format("woff2");
   unicode-range: U+0900-097f;
 }
 @font-face {
@@ -251,7 +251,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.thai.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.thai.woff2) format("woff2");
   unicode-range: U+0e00-0e7f;
 }
 @font-face {
@@ -259,7 +259,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.georgian.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.georgian.woff2) format("woff2");
   unicode-range: U+10a0-10ff;
 }
 @font-face {
@@ -267,7 +267,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/FiraGO-Book.shared.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Book.shared.woff2) format("woff2");
   unicode-range: U+2000-206f, U+2070-209f, U+20a0-20cf, U+2100-214f, U+2150-218f,
     U+2190-21ff, U+22??, U+25a0-25ff, U+2700-27bf;
 }
@@ -276,7 +276,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.latin.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.latin.woff2) format("woff2");
   unicode-range: U+0000-007f, U+0080-00ff;
 }
 @font-face {
@@ -284,7 +284,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.latin-ext.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.latin-ext.woff2) format("woff2");
   unicode-range: U+0100-017f, U+0180-024f, U+0250-02af, U+1e??, U+2c60-2c7f,
     U+a720-a7ff, U+ab30-ab6f;
 }
@@ -293,7 +293,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.cyrillic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.cyrillic.woff2) format("woff2");
   unicode-range: U+04??, U+0500-052f;
 }
 @font-face {
@@ -301,7 +301,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.special.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.special.woff2) format("woff2");
   unicode-range: U+02b0-02ff, U+0300-036f, U+1d00-1d7f, U+1d80-1dbf, U+1dc0-1dff,
     U+23??, U+2980-29ff, U+2b??, U+e000-f8ff, U+fb00-fb4f;
 }
@@ -310,7 +310,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.greek.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.greek.woff2) format("woff2");
   unicode-range: U+0370-03ff, U+1f??;
 }
 @font-face {
@@ -318,7 +318,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.hebrew.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.hebrew.woff2) format("woff2");
   unicode-range: U+0590-05ff;
 }
 @font-face {
@@ -326,7 +326,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.arabic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.arabic.woff2) format("woff2");
   unicode-range: U+06??, U+0750-077f, U+fb50-fdff, U+fe70-feff;
 }
 @font-face {
@@ -334,7 +334,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.devanagari.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.devanagari.woff2) format("woff2");
   unicode-range: U+0900-097f;
 }
 @font-face {
@@ -342,7 +342,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.thai.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.thai.woff2) format("woff2");
   unicode-range: U+0e00-0e7f;
 }
 @font-face {
@@ -350,7 +350,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.georgian.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.georgian.woff2) format("woff2");
   unicode-range: U+10a0-10ff;
 }
 @font-face {
@@ -358,7 +358,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/FiraGO-Medium.shared.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Medium.shared.woff2) format("woff2");
   unicode-range: U+2000-206f, U+2070-209f, U+20a0-20cf, U+2100-214f, U+2150-218f,
     U+2190-21ff, U+22??, U+25a0-25ff, U+2700-27bf;
 }
@@ -367,7 +367,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.latin.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.latin.woff2) format("woff2");
   unicode-range: U+0000-007f, U+0080-00ff;
 }
 @font-face {
@@ -375,7 +375,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.latin-ext.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.latin-ext.woff2) format("woff2");
   unicode-range: U+0100-017f, U+0180-024f, U+0250-02af, U+1e??, U+2c60-2c7f,
     U+a720-a7ff, U+ab30-ab6f;
 }
@@ -384,7 +384,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.cyrillic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.cyrillic.woff2) format("woff2");
   unicode-range: U+04??, U+0500-052f;
 }
 @font-face {
@@ -392,7 +392,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.special.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.special.woff2) format("woff2");
   unicode-range: U+02b0-02ff, U+0300-036f, U+1d00-1d7f, U+1d80-1dbf, U+1dc0-1dff,
     U+23??, U+2980-29ff, U+2b??, U+e000-f8ff, U+fb00-fb4f;
 }
@@ -401,7 +401,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.greek.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.greek.woff2) format("woff2");
   unicode-range: U+0370-03ff, U+1f??;
 }
 @font-face {
@@ -409,7 +409,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.hebrew.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.hebrew.woff2) format("woff2");
   unicode-range: U+0590-05ff;
 }
 @font-face {
@@ -417,7 +417,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.arabic.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.arabic.woff2) format("woff2");
   unicode-range: U+06??, U+0750-077f, U+fb50-fdff, U+fe70-feff;
 }
 @font-face {
@@ -425,7 +425,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.devanagari.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.devanagari.woff2) format("woff2");
   unicode-range: U+0900-097f;
 }
 @font-face {
@@ -433,7 +433,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.thai.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.thai.woff2) format("woff2");
   unicode-range: U+0e00-0e7f;
 }
 @font-face {
@@ -441,7 +441,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.georgian.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.georgian.woff2) format("woff2");
   unicode-range: U+10a0-10ff;
 }
 @font-face {
@@ -449,7 +449,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/FiraGO-Regular.shared.woff2) format("woff2");
+  src: url(/resume/fonts/FiraGO-Regular.shared.woff2) format("woff2");
   unicode-range: U+2000-206f, U+2070-209f, U+20a0-20cf, U+2100-214f, U+2150-218f,
     U+2190-21ff, U+22??, U+25a0-25ff, U+2700-27bf;
 }
@@ -615,7 +615,7 @@ body {
   margin-bottom: 0.4375rem;
 }
 .mt-2\.1 {
-  margin-top: 0.5625rem;
+  margin-top: 0.25rem;
 }
 .mb-4\.5 {
   margin-bottom: 1.125rem;
