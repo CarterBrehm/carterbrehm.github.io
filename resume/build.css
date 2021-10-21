@@ -574,13 +574,13 @@ body {
   line-height: 1;
 }
 .leading-normal {
-  line-height: 1.32;
+  line-height: 1.24;
 }
 .leading-relaxed {
   line-height: 1.47;
 }
 .leading-snugish {
-  line-height: 1.32;
+  line-height: 1.24;
 }
 .list-inside {
   list-style-position: inside;
