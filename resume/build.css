@@ -574,13 +574,13 @@ body {
   line-height: 1;
 }
 .leading-normal {
-  line-height: 1.2;
+  line-height: 1.25;
 }
 .leading-relaxed {
   line-height: 1.4;
 }
 .leading-snugish {
-  line-height: 1.2;
+  line-height: 1.25;
 }
 .list-inside {
   list-style-position: inside;
@@ -615,7 +615,7 @@ body {
   margin-bottom: 0.4375rem;
 }
 .mt-2\.1 {
-  margin-top: 0.2rem;
+  margin-top: 0.4rem;
 }
 .mb-4\.5 {
   margin-bottom: 1.125rem;
@@ -847,7 +847,7 @@ html {
     height: 71.625rem;
   }
   .md\:mb-11 {
-    margin-bottom: 0rem;
+    margin-bottom: 2.75rem;
   }
   .md\:max-w-letter {
     max-width: 66.40625rem;
