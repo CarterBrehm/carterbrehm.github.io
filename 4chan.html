@@ -1,0 +1,123 @@
+<style>
+html {
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%
+}
+
+body {
+	background: #eef2ff url(/image/fade-blue.png) top center repeat-x;
+	color: #000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px
+}
+
+input:-moz-placeholder {
+	color: gray !important
+}
+
+div.post {
+	margin: 4px 0;
+	overflow: hidden
+}
+
+div.reply {
+	background-color: #d6daf0;
+	border: 1px solid #b7c5d9;
+	border-left: none;
+	border-top: none;
+	display: table;
+	padding: 2px
+}
+
+div.reply input {
+	float: none
+}
+
+div.post div.postInfo {
+	display: block;
+	width: 100%
+}
+
+div.post div.postInfo span.nameBlock {
+	display: inline-block
+}
+
+div.post div.postInfo span.nameBlock span.name {
+	color: #117743;
+	font-weight: 700
+}
+
+blockquote > span.quote {
+	color:#789922
+}
+
+textarea {
+	width: 100%;
+	height: 50%;
+}
+</style>
+
+<script type="text/javascript">
+
+
+	function init() {
+		document.getElementById("input").addEventListener('input', function() {
+			fillValues()
+		});
+	}
+
+	function getDayName(dateStr, locale)
+	{
+		var date = new Date(dateStr);
+		return date.toLocaleDateString(locale, { weekday: 'short' });
+	}
+
+	function fillValues() {
+		n =  new Date();
+		y = n.getFullYear();
+		m = n.getMonth() + 1;
+		d = n.getDate();
+		h = n.getHours();
+		min = n.getMinutes();
+		s = n.getSeconds();
+		document.getElementById("date").innerHTML = m + "/" + d + "/" + y + "(" + getDayName(n) + ")" + h + ":" + min + ":" + s;
+		document.getElementById("text").innerHTML = document.getElementById("input").value.replace(/(?:\r\n|\r|\n)/g, '<br>')
+	}
+	window.onload = init;
+</script>
+
+<textarea id="input"></textarea>
+<br>
+
+<div class="post reply">
+	<div class="postInfo desktop">
+		<input type="checkbox">
+		<span class="nameBlock">
+			<span class="name">
+				Anonymous
+			</span>
+		</span>
+		<span id="date">
+			11/12/21(Fri)12:27:41
+		</span>
+		<span class="postNum desktop">
+			No. <span id="random"></span>
+		</span>
+	</div>
+	<blockquote class="postMessage" id="m577851231">
+		<span class="quote" id="text">
+
+		</span>
+	</blockquote>
+</div>
+
+
+
+
+
