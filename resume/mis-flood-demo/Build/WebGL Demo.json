@@ -1,0 +1,13 @@
+{
+"companyName": "UNO",
+"productName": "MIS Flood",
+"dataUrl": "WebGL Demo.data.unityweb",
+"wasmCodeUrl": "WebGL Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Demo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#0A0A0A",
+"cacheControl": {"default": "must-revalidate"}
+}
