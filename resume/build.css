@@ -860,3 +860,9 @@ html {
     column-count: 2;
   }
 }
+
+a {
+  /* text-decoration: underline; */
+  border-bottom: 1px solid #000;
+  padding-bottom: 0px;
+}
