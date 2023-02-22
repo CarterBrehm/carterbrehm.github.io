@@ -20,6 +20,12 @@ function updateWaitlist() {
 	  waitlist.appendChild(li);
 	}
   }
+  
+  if (partyList.length <= 1) {
+	var li = document.createElement("li");
+	li.innerText = "None";
+	waitlist.appendChild(li);
+  }
 }
 
 
